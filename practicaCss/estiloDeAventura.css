@@ -1,0 +1,16 @@
+body{
+    background-color: lightsalmon;
+}
+.centrarTexto{
+    text-align: center;
+}
+.centroImagenes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: lemonchiffon;
+    font-size: 20px;
+}

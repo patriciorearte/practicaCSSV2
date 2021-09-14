@@ -1,0 +1,20 @@
+.claseImperio
+{
+    background-color: red;
+}
+#Lider{
+    font-size: 40px;
+
+}
+#Lider2{
+    font-style: italic;
+}
+#Soldado
+{
+    border-width: green;
+}
+#Imperio *
+{
+    background-color: black;
+    color: red;
+}
